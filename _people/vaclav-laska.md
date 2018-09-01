@@ -3,9 +3,10 @@ uid: vaclav.laska
 name:     Václav Láska	  		# běžně používáné jméno
 fullname: Mgr. Václav Láska  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- senat
+- senator
 img: people/vaclav-laska.jpg             # 165 x 220
-description: Senátor za Prahu 5, s podporou Pirátů            	# kratký popis, max 160 znaků
+description: Senátor za obvod č. 21 (Praha 5), s podporou Pirátů            	# kratký popis, max 160 znaků
+obvod: 21
 mail:
 - vaclav.laska@vaclavlaska.cz
 mob:			  +420 776 709 157

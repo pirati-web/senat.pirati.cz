@@ -1,19 +1,19 @@
 ---
 uid: ladislav.kos
-name:     Ladislav Kos  	# běžně používáné jméno
-fullname: Ing. Ladislav Kos  	# jméno s tituly etc.
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- senat
-img: people/ladislav-kos.jpg # 165 x 220
-description: Senátor za volební obvod Praha 11, spolunominovaný Pirátskou stranou             	# kratký popis, max 160 znaků
+name:     Ladislav Kos
+titles:
+  before: Ing.
+  after: 
+category:
+  - senator
+img: people/ladislav-kos.jpg
+description: Senátor za volební obvod č. 19 (Praha 11), spolunominovaný Pirátskou stranou 
+obvod: 19
 mail:
 - ladislav.kos@gmail.com
 mob:			  +420 603 780 761
 profiles:
-  github:                 
   facebook: 		  https://www.facebook.com/kos.ladislav
-  twitter:
-ordsenat: 3
 ---
 
 Ladislav Kos (31. května 1958, Praha) je senátor za volební obvod Praha 11, spolunominovaný Pirátskou stranou, bývalý místostarosta Městské části Praha 11 a člen finančního výboru zastupitelstva hlavního města Prahy za Piráty

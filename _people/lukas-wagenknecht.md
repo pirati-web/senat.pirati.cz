@@ -20,13 +20,11 @@ profiles:
   twitter: https://twitter.com/WagenknechtLuk
   blog: http://blog.aktualne.cz/blogy/lukas-wagenknecht.php
   web: https://lukaswagenknecht.cz/
-office:
-  - address: Jiřího náměstí 39, 290 33  Poděbrady
-    name: Poslanecká kancelář
-    opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
+account:   https://www.fio.cz/ib2/transparent?a=2101172791
 ---
 
 {% include senator.html %} 
+
 je bývalý náměstek pro oblast finančního řízení a auditu na Ministerstvu financí ČR. Už patnáct let se věnuje oblasti kontroly nakládání s veřejnými prostředky. Jeho hlavním cílem v Senátu bude prosadit systémová pravidla pro vymahatelnou odpovědnost politiků a úředníků, která zastaví vyhazování peněz daňových poplatníků a ztíží rozkrádání veřejných rozpočt
 
 *Napsal o sobě:*

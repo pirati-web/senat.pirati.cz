@@ -18,8 +18,6 @@ mob:			  +420 730 195 924
 mail:
   - michalekl@senat.cz
 profiles:
-  googleplus: https://plus.google.com/+uzivatel.na.googleplus
-  blog: http://blog.aktualne.cz/blogy/lukas-wagenknecht.php
   web: https://libormichalek.cz/
   facebook: https://www.facebook.com/libor.michalek.73
   twitter: 		  https://twitter.com/MichalekLibor

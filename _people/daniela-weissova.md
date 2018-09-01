@@ -7,12 +7,13 @@ titles:
 category:
   - kandidat
 description: Volební obvod č. 38 (Mladá Boleslav)
+obvod: 38
 #img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
 mail:
   - aktivni.priznivec@pirati.cz
 profiles:
-  blog: http://blog.aktualne.cz/blogy/lukas-wagenknecht.php
-  Web: https://wiki.pirati.cz/lide/daniela_weissova
+  facebook: https://www.facebook.com/daniela.weissova.9
+  web: https://wiki.pirati.cz/lide/daniela_weissova
 account:  https://www.fio.cz/ib2/transparent?a=2701172824
 ---
 
