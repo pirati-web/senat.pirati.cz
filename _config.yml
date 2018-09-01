@@ -18,7 +18,7 @@ administrator:
 organization:
   name: Senátní kandidáti
   shortName: senat
-  #contactUid: jakub.pirat
+  contactUid: vit.simral
   email: vit.simral@pirati.cz
   #phone: +420 777 123 456 789
   address: |
