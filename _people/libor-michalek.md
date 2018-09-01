@@ -10,10 +10,10 @@ category:
 description: Senátor za volební obvod č 26 (Praha 2), v koalici s politickým hnutím VIZE
 obvod: 26
 #img: people/libor-michalek.jpg 
-asistenti:
-  - name: Mgr. Věra Marušiaková
-    position: Asitentka
-    mail: vera.marusiakova@pirati.cz
+#asistenti:
+#  - name: Mgr. Věra Marušiaková
+#    position: Asitentka
+#    mail: vera.marusiakova@pirati.cz
 mob:			  +420 730 195 924
 mail:
   - michalekl@senat.cz
@@ -24,10 +24,10 @@ profiles:
   facebook: https://www.facebook.com/libor.michalek.73
   twitter: 		  https://twitter.com/MichalekLibor
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=libor%20mich%C3%A1lek
-office:
-  - address: Jiřího náměstí 39, 290 33  Poděbrady
-    name: Poslanecká kancelář
-    opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
+#office:
+#  - address: Jiřího náměstí 39, 290 33  Poděbrady
+#    name: Poslanecká kancelář
+#    opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
 account:  https://www.fio.cz/ib2/transparent?a=2001172815 
 ---
 
