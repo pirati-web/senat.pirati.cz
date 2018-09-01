@@ -1,12 +1,12 @@
+
 ---
-uid: aktivni.priznivec
-name:     Aktivní Příznivec  	# běžně používáné jméno
+uid: lukas.wagenknecht
+name:    Lukáš Wagenknecht
 titles:
   before: PhDr.
   after:
 category:
-  - priznivci
-  - kandidat-obec
+  - kandidat
 description: kandidát do senátu # zobrazuje se v lide
 #img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
 asistenti:
@@ -27,11 +27,12 @@ office:
     opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
 ---
 
-Jméno Příjmení (*1. ledna 1900) je to a to, a tak dál. Sem patří představení člověka, několik odstavců.
-
-**Vzdělání/práce:** Studoval něco, teď dělá něco.
-
-**Politik:** Třeba čemu se věnuje.
-
-**Osobní:** Něco dalšího, měnit dle libosti, tady může být cokoliv. Není nutné, aby byly nadpisy tučně. Fakt jak chcete.
+Michal Šalomoun
+Volební obvod č. 53 (Třebíč)
+Michal Šalomoun je advokát s generální praxí, který má své kanceláře v Třebíči a Moravských Budějovicích. Autor několika právních publikací je vyhledávaný odborník v oblasti autorského práva, ochrany osobnosti a ochrany osobních údajů. Známý je bojem proti zneužívání práv kolektivními správci. V Senátu chce uplatňovat své zkušenosti z advokátní praxe. Na soudech nejrůznějších stupňů se pohybuje prakticky denně a kondici české justice tak zná velmi dobře - včetně jejích nešvarů.
+Web: https://salomoundosenatu.cz/
+FB:
+Twitter:
+Kalendář:
+Volební účet: https://www.fio.cz/ib2/transparent?a=2501172846
 
