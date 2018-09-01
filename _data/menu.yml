@@ -10,57 +10,21 @@ top:
     icon: "fa fa-newspaper-o"
 
 main:
-  - link: /aktuality/
-    name: Aktuality
-    match: aktuality
-  - link: /lide/
-    name: O nás
-    match: lide
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
-    submenu:
-      - link: /komunalni-volby/mapa-zameru/
-        name: Mapa záměrů
-        match: mapa-zameru
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
-
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
-
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
-
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
-
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
-
 
 bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
-      - link: /kontakt/
+      - link: https://nalodeni.pirati.cz/
         name: Dej nám vědět
   - class: small-12 medium-4
     title: Makáme
     links:
-      - link: /lide/
+      - link: https://www.pirati.cz/lide/
         name: Lidé
-      - link: /komunalni-volby/
-        name: Volby
-      - link: /aktuality/
+      - link: https://www.pirati.cz/program/komunal2018/
+        name: Komunální volby 
+      - link: https://www.pirati.cz/aktuality/
         name: Aktuality
   - class: small-12 medium-4
     title: Otevřenost
