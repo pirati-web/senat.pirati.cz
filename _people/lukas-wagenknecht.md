@@ -2,22 +2,22 @@
 uid: lukas.wagenknecht
 name:    Lukáš Wagenknecht
 titles:
-  before: PhDr.
+  before: Mgr.
   after:
 category:
   - kandidat
-description: kandidát do senátu # zobrazuje se v lide
-#img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
+description: Volební obvod č. 23 (Praha 8)
+#img: people/lukas-wagenknecht.jpg 
+obvod: 23
 asistenti:
-  - name: Mgr. Věra Marušiaková
+  - name: Karolína Ždárská
     position: Asitentka
-    mail: vera.marusiakova@pirati.cz
+    mail: k.zdarska@gmail.com
 mail:
-  - aktivni.priznivec@pirati.cz
+ - info@lukaswagenknecht.cz
 profiles:
-  facebook: https://www.facebook.com/uzivatel.na.fb  # pokud nema, staci smazat tuto radku
-  googleplus: https://plus.google.com/+uzivatel.na.googleplus
-  twitter: https://twitter.com/uzivatel.na.twitteru
+  facebook: https://www.facebook.com/WagenknechtLuk/
+  twitter: https://twitter.com/WagenknechtLuk
   blog: http://blog.aktualne.cz/blogy/lukas-wagenknecht.php
   web: https://lukaswagenknecht.cz/
 office:
@@ -26,10 +26,18 @@ office:
     opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
 ---
 
-Lukáš Wagenknecht
-Volební obvod č. 23 (Praha 8)
-je bývalý náměstek pro oblast finančního řízení a auditu na Ministerstvu financí ČR. Už patnáct let se věnuje oblasti kontroly nakládání s veřejnými prostředky. Jeho hlavním cílem v Senátu bude prosadit systémová pravidla pro vymahatelnou odpovědnost politiků a úředníků, která zastaví vyhazování peněz daňových poplatníků a ztíží rozkrádání veřejných rozpočtů.
-Web: https://lukaswagenknecht.cz/
-FB: https://www.facebook.com/WagenknechtLuk/
-Volební účet: https://www.fio.cz/ib2/transparent?a=2101172791
+{% include senator.html %} 
+je bývalý náměstek pro oblast finančního řízení a auditu na Ministerstvu financí ČR. Už patnáct let se věnuje oblasti kontroly nakládání s veřejnými prostředky. Jeho hlavním cílem v Senátu bude prosadit systémová pravidla pro vymahatelnou odpovědnost politiků a úředníků, která zastaví vyhazování peněz daňových poplatníků a ztíží rozkrádání veřejných rozpočt
+
+*Napsal o sobě:*
+
+V roce 1978 jsem se narodil a následně vyrůstal v Pardubicích. Na Univerzitě Pardubice jsem vystudoval obor Hospodářská politika a správa. Po studiích jsem se začal věnovat profesi interního auditu. V této oblasti se s krátkými přestávkami pohybuji již přes patnáct let. Mimo to přes deset let podnikám v oblasti maloobchodního prodeje.
+
+Za svůj život jsem se podílel na stovkách auditů. Do povědomí veřejnosti se asi nejvíce zapsalo odhalení zmanipulovaných dotací v operačním programu Severozápad, nebo audit výstavby metra A v Praze, který provázelo napojení firem na politiky s mnoha dalšími problémy.
+
+V roce 2015 jsem byl oceněný cenou za odvahu od Nadačního fondu proti korupci za své dlouhodobé nekompromisní postoje v roli auditora, například v pražském Dopravním podniku, nebo na ministerstvu financí, kde jsem upozornil na nesrovnalosti v podivných smlouvách uzavřených mezi společností ČEZ a političkou hnutí ANO Radmilou Kleslovou.
+
+V posledních letech se aktivně věnuji prosazování myšlenek dobrého vládnutí v České republice. Jde o zavedení jednoduchých principů, jako je konkrétní vymahatelná odpovědnost za rozhodování úředníků a politiků, jasná a předem dostatečně popsaná kritéria pro utrácení veřejných peněz, nebo audit a kontrola veřejných výdajů, který dokáže včas odhalit problémy a nedostatky. Taková pravidla už mnoho let fungují v zahraničí, ale naši politici a úředníci je důsledně a tvrdohlavě odmítají zavést.
+
+Ve svém volném čase rád jezdím na kole a v zimě běžkuji.
 

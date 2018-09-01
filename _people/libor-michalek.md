@@ -21,18 +21,17 @@ profiles:
   googleplus: https://plus.google.com/+uzivatel.na.googleplus
   blog: http://blog.aktualne.cz/blogy/lukas-wagenknecht.php
   web: https://libormichalek.cz/
-  facebook: 		  https://www.facebook.com/libor.michalek.73
+  facebook: https://www.facebook.com/libor.michalek.73
   twitter: 		  https://twitter.com/MichalekLibor
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=libor%20mich%C3%A1lek
 office:
   - address: Jiřího náměstí 39, 290 33  Poděbrady
     name: Poslanecká kancelář
     opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
+account:  https://www.fio.cz/ib2/transparent?a=2001172815 
 ---
 
-Volební účet: https://www.fio.cz/ib2/transparent?a=2001172815
-##### {{ page.description }} 
-<br />
+{% include senator.html %} 
 
 bude letos svůj senátorský post obhajovat. V minulém roce například předkládal návrh novely zákona o daních z příjmů, který odstraňoval výjimku pro účelově zakládané fondy. Rekonstrukcí státu byl vyhodnocen jako nejaktivnější senátor v prosazování protikorupční legislativy a jako jediný zákonodárce, který na 100 % splnil své předvolební sliby.
 
