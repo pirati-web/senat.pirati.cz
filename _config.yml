@@ -20,7 +20,7 @@ organization:
   shortName: senat
   contactUid: vit.simral
   email: vit.simral@pirati.cz
-  #phone: +420 777 123 456 789
+  phone: +420 +420 606 220 985
   address: |
     Řehořova 943/19,
     130 00 Praha 3
@@ -36,16 +36,11 @@ organization:
 # 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
   - type: organizationEmail
-  - type: organizationRedmineLink
   - type: organizationPhone
   - type: organizationTransparentAccount
     includeMoreLink: true
   - type: organizationDataBox
   - type: piratiRootWebsite
-  - type: custom
-    iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key

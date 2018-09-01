@@ -8,6 +8,7 @@ category:
 - kontaktni_osoba
 description: koordinátor senátní kampaně
 img: people/jakub-pirat.jpg # zakomentuj radek dokud není fotka
+mob: +420 606 220 985
 mail:
 - vit.simral@pirati.cz
 profiles:
