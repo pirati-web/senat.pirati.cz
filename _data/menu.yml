@@ -26,6 +26,26 @@ main:
   - link: /kontakt/
     name: Kontakt
     match: kontakt
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
+
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
+
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
+
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
+
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
+
 
 bottom:
   - class: small-12 medium-4

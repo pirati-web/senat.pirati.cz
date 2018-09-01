@@ -5,22 +5,22 @@
 # technické nastavení
 #
 
-title: Your awesome title # To co je napsané na tabu ve kterém je stránka.
-email: info@pirati.cz
+title: Piráti do Senátu # To co je napsané na tabu ve kterém je stránka.
+email: vit.simral@pirati.cz
 description: >-
-  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
+  Stránka kandidátu do senátu.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+keywords: piráti, česká pirátská strana, svoboda, demokracie, senát, kandidáti, senátoři,
 
 administrator:
-  email: to@pirati.cz # mail kam pujdou chybove vystupy
+  email: vit.simral@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
-  contactUid: jakub.pirat
-  email: example@pirati.cz
-  phone: +420 777 123 456 789
+  name: Senátní kandidáti
+  shortName: senat
+  #contactUid: jakub.pirat
+  email: vit.simral@pirati.cz
+  #phone: +420 777 123 456 789
   address: |
     Řehořova 943/19,
     130 00 Praha 3
@@ -59,7 +59,7 @@ facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
   profilePage: https://www.facebook.com/ceska.piratska.strana/
-  profilePageName: Nějaký název FB profilu
+  #profilePageName: Nějaký název FB profilu
   appId: 1526197851008996
 
 twitter:
@@ -79,7 +79,7 @@ forum:
   page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/example.pirati.cz/
+  url: https://github.com/pirati-web/senat.pirati.cz/
   branch: master
 
 #
@@ -119,15 +119,8 @@ permalink: /aktuality/:title.html
 collections:
   people:
     output: true
-    permalink: /lide/:path/
+    permalink: /:path/
 
-  program:
-    output: true
-    permalink: /komunalni-volby/program/:path/
-
-  # Sole purpose is to create candidate lists in separate files.
-  candidatelists:
-    output: false
 
 defaults:   # defaults values for collection scope
   -
@@ -139,14 +132,6 @@ defaults:   # defaults values for collection scope
         - foto
         - personContact
         - people
-  -
-    scope:
-      path: "_program"
-    values:
-      layout: "program-post"
-      rbar:
-         - garant
-         - program
 
 emptyArray: []
 
