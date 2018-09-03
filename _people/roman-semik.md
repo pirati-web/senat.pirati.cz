@@ -2,7 +2,7 @@
 uid: roman.semik
 name: Roman Šemík
 titles:
-  before: PhDr.
+  before: Ing.
   after:
 category:
   - kandidat
@@ -10,7 +10,7 @@ description: Volební obvod č. 44 (Chrudim), s podporou SEN 21
 #img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
 obvod: 44
 mail:
-  - aktivni.priznivec@pirati.cz
+  - roman.semik@gmail.com 
 profiles:
   web: https://romansemik.cz/
   facebook: https://www.facebook.com/SeSemikemDoSenatu/
