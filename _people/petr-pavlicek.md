@@ -2,7 +2,7 @@
 uid: petr.pavlicek
 name: Petr Pavlíček
 titles:
-  before: PhDr.
+  before: Mgr.
   after:
 category:
   - kandidat
@@ -10,7 +10,7 @@ description: Volební obvod č. 68 (Opava)
 obvod: 68
 #img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
 mail:
-  - aktivni.priznivec@pirati.cz
+  - pavlicek@mgo.opava.cz 
 profiles:
   facebook: https://www.facebook.com/matematika.fyzika/
   web: http://senatorpetr.cz/
