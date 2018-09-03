@@ -23,8 +23,6 @@ account: https://www.fio.cz/ib2/transparent?a=2601172798
 
 {% include senator.html %} 
 
-Petr Chaluš (s podporou SEN 21)
-Volební obvod č. 41 (Benešov)
 Petr Chaluš se angažuje v mnoha aktivitách okolo českého vzdělávání a podporuje inovativní proudy. Usiloval o úpravy legislativy v oblasti státních maturit, centralizovaných přijímacích testů na střední školy a povinnosti předškolního vzdělávání, aby byly utlumeny jejich negativní dopady.  Pracoval jako poradce pro děti a rodiče ve škole. Aktuálně se věnuje kariérnímu poradenství v oblasti evropské spolupráce. Je předsedou národní organizace Fórum Rodičů, jejímž hlavním cílem je zapojení rodičů do rozhodování o tom, jak školy vypadají.
 
 
