@@ -2,7 +2,7 @@
 uid: daniela.weissova
 name: Daniela Weissová
 titles:
-  before: PhDr.
+  before:
   after:
 category:
   - kandidat
