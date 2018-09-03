@@ -10,7 +10,7 @@ description: Volební obvod č. 56 (Břeclav)
 obvod: 56
 #img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
 mail:
-  - aktivni.priznivec@pirati.cz
+  - K.stogl73@gmail.com 
 profiles:
   web: https://cs.wikipedia.org/wiki/Karel_%C5%A0togl
 office:
