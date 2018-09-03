@@ -2,7 +2,7 @@
 uid: viktor.krutina
 name:  Viktor Krutina
 titles:
-  before: PhDr.
+  before: Ing.
   after:
 category:
   - kandidat
@@ -10,7 +10,7 @@ description: Volební obvod č. 11 (Domažlice)
 obvod: 11
 #img: people/viktor-krutina.jpg 
 mail:
-  - aktivni.priznivec@pirati.cz
+  - viktor.krutina@seznam.cz 
 profiles:
   web: https://wiki.pirati.cz/lide/viktor_krutina 
 account: https://www.fio.cz/ib2/transparent?a=2501172811 
