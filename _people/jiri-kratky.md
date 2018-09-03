@@ -2,7 +2,7 @@
 uid: jiri.kratky
 name:    Jiří Krátký
 titles:
-  before: PhDr.
+  before:
   after:
 category:
   - kandidat
