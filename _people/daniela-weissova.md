@@ -10,7 +10,7 @@ description: Volební obvod č. 38 (Mladá Boleslav)
 obvod: 38
 #img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
 mail:
-  - aktivni.priznivec@pirati.cz
+  - daniela.weissova@pirati.cz 
 profiles:
   facebook: https://www.facebook.com/daniela.weissova.9
   web: https://wiki.pirati.cz/lide/daniela_weissova
