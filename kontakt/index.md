@@ -1,7 +1,7 @@
 ---
 layout: contacts
-description: Pirátská strana v XY je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
-keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
+description: Pirátská strana v Praze je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
+keywords: Na Moráni 360/3, 128 00 Praha 2; +420 770 113 642, michal.jokes@pirati.cz
 # Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
 noresidence: yes
 contentSize: default
