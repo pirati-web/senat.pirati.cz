@@ -3,17 +3,17 @@ uid: vit.simral
 name:     Vít Šimral
 titles:
    before: 
-   after:
+   after: Ph.D. et Ph.D.
 category:
 - kontaktni_osoba
 description: koordinátor senátní kampaně
-img: people/jakub-pirat.jpg # zakomentuj radek dokud není fotka
+img: people/s_00026.jpg # zakomentuj radek dokud není fotka
 mob: +420 606 220 985
 mail:
 - vit.simral@pirati.cz
 profiles:
   facebook: 	https://www.facebook.com/vit.simral
-  twitter: 		https://twitter.com/SimralVit
+  twitter: 		https://twitter.com/Piratweetek
 ---
 
 
