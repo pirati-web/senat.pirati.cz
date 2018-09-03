@@ -2,8 +2,8 @@
 uid: zdenek.hess
 name: Zdeněk Hess  	# běžně používáné jméno
 titles:
-  before: PhDr.
-  after:
+  before: MUDr.
+  after: Ph.D.
 category:
   - kandidat
 description: Volební obvod č. 8 (Rokycany)
