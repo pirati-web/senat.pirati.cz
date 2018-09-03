@@ -2,15 +2,15 @@
 uid: martin.tomasek
 name: Martin Tomášek
 titles:
-  before: PhDr.
-  after:
+  before: Mgr.
+  after: Ph.D.
 category:
   - kandidat
 description: Volební obvod č. 71 (Ostrava), s podporou SEN 21 a Zelených
 obvod: 71
 #img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
 mail:
-  - aktivni.priznivec@pirati.cz
+  - martin.tomasek@osu.cz 
 profiles:
   facebook: https://www.facebook.com/martindosenatu/
   web: https://martindosenatu.cz/
