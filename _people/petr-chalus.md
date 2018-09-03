@@ -2,7 +2,7 @@
 uid: petr.chalus
 name:  Petr Chaluš
 titles:
-  before: 
+  before: Mgr.
   after:
 category:
   - kandidat
@@ -10,7 +10,7 @@ description: Volební obvod č. 41 (Benešov), s podporou SEN 21
 obvod: 41
 #img: people/libor-michalek.jpg 
 mail:
-  - aktivni.priznivec@pirati.cz
+  - petrchalus@gmail.com 
 profiles:
   facebook: https://www.facebook.com/PetrChalusHlasRodicu/ 
   web: https://wiki.pirati.cz/lide/petr_chalus 
