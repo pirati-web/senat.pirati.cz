@@ -2,7 +2,7 @@
 uid: karel.stogl
 name:    Karel Štogl
 titles:
-  before: PhDr.
+  before: Mgr.
   after:
 category:
   - kandidat
@@ -14,9 +14,9 @@ mail:
 profiles:
   web: https://cs.wikipedia.org/wiki/Karel_%C5%A0togl
 office:
-  - address: Jiřího náměstí 39, 290 33  Poděbrady
-    name: Poslanecká kancelář
-    opening: "Pondělí 14:00 - 18:00, objednání návštěvy: kancelar-podebrady@pirati.cz nebo 778 111 462. Dne 18. 6. je z pracovních důvodů kancelář mimo provoz."
+  - address:
+    name:
+    opening:
 account: https://www.fio.cz/ib2/transparent?a=2801172805
 ---
 
