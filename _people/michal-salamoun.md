@@ -2,15 +2,15 @@
 uid: michal.salamoun
 name: Michal Šalomoun
 titles:
-  before: PhDr.
-  after:
+  before: JUDr.
+  after: Ph.D.
 category:
   - kandidat
 description: Volební obvod č. 53 (Třebíč)
 obvod: 53
 #img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
 mail:
-  - aktivni.priznivec@pirati.cz
+  - advokacie@oou.cz 
 profiles:
   web: https://salomoundosenatu.cz/
 account: https://www.fio.cz/ib2/transparent?a=2501172846
