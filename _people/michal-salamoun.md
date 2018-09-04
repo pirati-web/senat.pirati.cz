@@ -6,7 +6,7 @@ titles:
   after: Ph.D.
 category:
   - kandidat
-description: Volební obvod č. 53 (Třebíč)
+description: Volební obvod č. 53 (Třebíč) s podporou TOP 09
 obvod: 53
 #img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
 mail:
