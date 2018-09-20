@@ -8,7 +8,7 @@ category:
   - kandidat
 description: Volební obvod č. 41 (Benešov), s podporou SEN 21
 obvod: 41
-#img: people/libor-michalek.jpg 
+img: people/petr-chalus.jpg
 mail:
   - petrchalus@gmail.com 
 profiles:

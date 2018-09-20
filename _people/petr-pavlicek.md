@@ -8,7 +8,7 @@ category:
   - kandidat
 description: Volební obvod č. 68 (Opava)
 obvod: 68
-#img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
+img: people/petr-pavlicek.jpg
 mail:
   - pavlicek@mgo.opava.cz 
 profiles:

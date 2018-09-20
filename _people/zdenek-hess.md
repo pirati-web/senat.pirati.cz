@@ -7,7 +7,7 @@ titles:
 category:
   - kandidat
 description: Volební obvod č. 8 (Rokycany)
-#img: people/zdenk-hess.jpg 
+img: people/zdenek-hess.jpg 
 mail:
   - miroslav.masek@pirati.cz
 profiles:

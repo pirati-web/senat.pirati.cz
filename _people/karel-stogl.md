@@ -8,7 +8,7 @@ category:
   - kandidat
 description: Volební obvod č. 56 (Břeclav)
 obvod: 56
-#img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
+img: people/karel-stogl.jpg
 mail:
   - K.stogl73@gmail.com 
 profiles:

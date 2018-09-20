@@ -7,7 +7,7 @@ titles:
 category:
   - kandidat
 description: Volební obvod č. 17 (Praha 12), v koalici s LES a podporou Zelených
-#img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
+img: people/eva-tylova.jpg
 obvod: 17
 mail:
   - aktivni.priznivec@pirati.cz

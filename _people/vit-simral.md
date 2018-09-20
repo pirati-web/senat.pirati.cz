@@ -7,7 +7,7 @@ titles:
 category:
 - kontaktni_osoba
 description: koordinátor senátní kampaně
-img: people/S6 - Foto Vit Simral.jpg # zakomentuj radek dokud není fotka
+img: people/vit-simral.jpg
 mob: +420 606 220 985
 mail:
 - vit.simral@pirati.cz

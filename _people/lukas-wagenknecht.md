@@ -7,7 +7,7 @@ titles:
 category:
   - kandidat
 description: Volební obvod č. 23 (Praha 8)
-#img: people/lukas-wagenknecht.jpg 
+img: people/lukas-wagenknecht-2.jpg 
 obvod: 23
 asistenti:
   - name: Karolína Ždárská

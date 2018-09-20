@@ -8,7 +8,7 @@ category:
   - kandidat
 description: Volební obvod č. 11 (Domažlice)
 obvod: 11
-#img: people/viktor-krutina.jpg 
+img: people/viktor-krutina.jpg 
 mail:
   - viktor.krutina@seznam.cz 
 profiles:

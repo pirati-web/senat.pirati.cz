@@ -7,7 +7,7 @@ titles:
 category:
   - kandidat
 description: Volební obvod č. 44 (Chrudim), s podporou SEN 21
-#img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
+img: people/roman-semik.jpg
 obvod: 44
 mail:
   - roman.semik@gmail.com 

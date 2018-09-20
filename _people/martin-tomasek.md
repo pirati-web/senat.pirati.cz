@@ -8,7 +8,7 @@ category:
   - kandidat
 description: Volební obvod č. 71 (Ostrava), s podporou SEN 21 a Zelených
 obvod: 71
-#img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
+img: people/martin-tomasek.jpg
 mail:
   - martin.tomasek@osu.cz 
 profiles:

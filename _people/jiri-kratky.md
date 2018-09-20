@@ -8,7 +8,7 @@ category:
   - kandidat
 description: Volební obvod č. 50 (Svitavy), s podporou SEN 21
 obvod: 50
-#img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
+img: people/jiri-kraty.jpg
 mail:
   - aktivni.priznivec@pirati.cz
 profiles:
