@@ -6,7 +6,6 @@ titles:
   after: MPA
 category:
   - kandidat
-  - senator
 description: Senátor za volební obvod č 26 (Praha 2), v koalici s politickým hnutím VIZE
 obvod: 26
 img: people/libor-michalek.jpg 
