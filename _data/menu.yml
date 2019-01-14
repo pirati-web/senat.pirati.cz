@@ -29,6 +29,8 @@ bottom:
   - class: small-12 medium-4
     title: Otevřenost
     links:
+      - link: /financovani/
+        name: Financování kampaně
       - link: https://ucet.pirati.cz
         name: Transparentní účet
       - link: https://smlouvy.pirati.cz
