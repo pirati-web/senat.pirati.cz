@@ -12,7 +12,7 @@ img: people/karel-stogl.jpg
 mail:
   - K.stogl73@gmail.com 
 profiles:
-  web: https://cs.wikipedia.org/wiki/Karel_%C5%A0togl
+  web: https://www.karelstogl.cz
 account: https://www.fio.cz/ib2/transparent?a=2801172805
 ---
 
