@@ -10,6 +10,7 @@ category:
 description: Senátor za obvod č. 23 (Praha 8), nominovaný Piráty
 img: people/lukas-wagenknecht-2.jpg 
 obvod: 23
+ordsen: 1
 asistenti:
   - name: Karolína Ždárská
     position: Asitentka
