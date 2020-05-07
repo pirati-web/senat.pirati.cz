@@ -7,6 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/vaclav-laska.jpg             # 165 x 220
 description: Senátor za obvod č. 21 (Praha 5), s podporou Pirátů            	# kratký popis, max 160 znaků
 obvod: 21
+ordsen: 3
 mail:
 - vaclav.laska@vaclavlaska.cz
 mob:			  +420 776 709 157

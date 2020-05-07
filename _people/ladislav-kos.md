@@ -9,6 +9,7 @@ category:
 img: people/ladislav-kos.jpg
 description: Senátor za volební obvod č. 19 (Praha 11), spolunominovaný Pirátskou stranou 
 obvod: 19
+ordsen: 4
 mail:
 - ladislav.kos@gmail.com
 mob:			  +420 603 780 761

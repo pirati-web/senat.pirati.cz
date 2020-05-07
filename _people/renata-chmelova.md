@@ -7,6 +7,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/renata-chmelova.jpg          # 165 x 220
 description: Senátorka za obvod č. 22 (Praha 10), spolunominovaná Piráty
 obvod: 22
+ordsen: 2
 mail:
 - renata.chmelova@vlasta10.cz
 mob:			  +420 724 022 964
