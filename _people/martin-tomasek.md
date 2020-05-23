@@ -6,7 +6,8 @@ titles:
   after: Ph.D.
 category:
   - kandidat
-description: Volební obvod č. 71 (Ostrava), s podporou SEN 21 a Zelených
+  - kandidat2020
+description: 
 obvod: 71
 img: people/martin-tomasek.jpg
 mail:
@@ -14,7 +15,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/martindosenatu/
   web: https://martindosenatu.cz/
-account: https://www.fio.cz/ib2/transparent?a=2501172782
+  account: https://www.fio.cz/ib2/transparent?a=2501172782
 ---
 
 {% include senator.html %} 

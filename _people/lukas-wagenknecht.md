@@ -5,7 +5,6 @@ titles:
   before: Mgr.
   after:
 category:
-  - kandidat
   - senator
 description: Senátor za obvod č. 23 (Praha 8), nominovaný Piráty
 img: people/lukas-wagenknecht.jpg 
@@ -15,6 +14,7 @@ asistenti:
   - name: Karolína Ždárská
     position: Asitentka
     mail: k.zdarska@gmail.com
+mob:  + 420 608 303 542
 mail:
  - info@lukaswagenknecht.cz
 profiles:
